@@ -2149,30 +2149,6 @@ blockquote {
 .cid-s7Obs4SUfF .navbar-brand {
   padding-right: 20px;
 }
-.cid-s7Obs4SUfF .nav-link {
-  position: relative;
-  margin: 0 20px !important;
-  padding: 0 !important;
-}
-.cid-s7Obs4SUfF .nav-link:hover:before {
-  width: 100%;
-}
-.cid-s7Obs4SUfF .nav-link:before {
-  content: '';
-  width: 0;
-  height: 2px;
-  position: absolute;
-  left: 1px;
-  bottom: 5px;
-  z-index: -1;
-  background-color: currentColor;
-  transition: width 0.3s ease-out;
-}
-@media (max-width: 991px) {
-  .cid-s7Obs4SUfF .nav-link {
-    margin: 0 !important;
-  }
-}
 .cid-s7Obs4SUfF .widget {
   display: flex;
   justify-content: center;
@@ -2364,6 +2340,9 @@ blockquote {
   align-items: center;
   z-index: 1;
 }
+.cid-s7Obs4SUfF .navbar .navbar-collapse .navbar-nav {
+  display: none !important;
+}
 .cid-s7Obs4SUfF .navbar.collapsed .nav-item .nav-link::before {
   display: none;
 }
@@ -2509,6 +2488,7 @@ blockquote {
 }
 .cid-s7Obs4SUfF .navbar-dropdown {
   position: absolute;
+  position: fixed;
 }
 .cid-s7Obs4SUfF a.nav-link {
   -webkit-justify-content: center;
