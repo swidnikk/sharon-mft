@@ -1,0 +1,56 @@
+@font-face {
+   font-family: 'Sora';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 100;
+   src: url('file:///Users/sharon/sharon-mft/fonts/Sora/100.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Sora';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 200;
+   src: url('file:///Users/sharon/sharon-mft/fonts/Sora/200.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Sora';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 300;
+   src: url('file:///Users/sharon/sharon-mft/fonts/Sora/300.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Sora';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 500;
+   src: url('file:///Users/sharon/sharon-mft/fonts/Sora/500.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Sora';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 600;
+   src: url('file:///Users/sharon/sharon-mft/fonts/Sora/600.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Sora';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 700;
+   src: url('file:///Users/sharon/sharon-mft/fonts/Sora/700.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Sora';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 800;
+   src: url('file:///Users/sharon/sharon-mft/fonts/Sora/800.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Sora';
+   font-style: regular;
+   font-display: swap;
+   font-weight: 400;
+   src: url('file:///Users/sharon/sharon-mft/fonts/Sora/regular.ttf') format('truetype');
+}
